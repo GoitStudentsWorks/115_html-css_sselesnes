@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-DevHive1/",
+    "build": "vite build --base=/115_html-css_sselesnes/",
     "preview": "vite preview"
   },
   "devDependencies": {
